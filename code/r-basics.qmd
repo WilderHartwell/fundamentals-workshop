@@ -42,6 +42,8 @@ To test your knowledge of the R basics, I recommend taking the free interactive 
 
 Variables in R can have different modes. Table \@ref(tab:variable-modes) shows the most common ones.
 
+making a change to commit and push to github
+
 ```{r}
 #| label: tbl-data-types
 #| tbl-cap: "Most commonly used data types in Python."
